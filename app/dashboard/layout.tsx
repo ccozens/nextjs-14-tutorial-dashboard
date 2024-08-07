@@ -1,6 +1,6 @@
 import SideNav from '@/app/ui/dashboard/sidenav';
 
-export const experimental_prr = true; // enable incremental pre-rendering
+export const experimental_ppr = true; // enable incremental pre-rendering
 
 export default function Layout( { children }: { children: React.ReactNode} ) {
 
